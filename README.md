@@ -1,7 +1,7 @@
 #  Discord v13 Uptime Bot
 
 
- - [Discord Kayıt Bot](https://github.com/GweepCreative/v13-register-bot)
+ - [Discord Uptime Bot](https://github.com/GweepCreative/v13-uptime-bot)
       - [Kurulum](#kurulum-pc)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
@@ -17,14 +17,14 @@
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
-* Daha sonra `ayarlar.json` dosyasındaki bilgileri doldur.
+* Daha sonra `config.json` dosyasındaki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
 # Kurulum Glitch
-* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/kayitbot-v13) seni otomatik olarak proje sayfasına gönlendiricek.
-* Daha sonra `.env`dosyasındaki bilgileri doldur.
+* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/v13uptimebot) seni otomatik olarak proje sayfasına gönlendiricek.
+* Daha sonra `config.json`dosyasındaki bilgileri doldur.
 * Kurulum bittikten sonra bot otomatik başlatılacaktır.
 
 ## Botun İntentlerini Açmayı Unutma!
